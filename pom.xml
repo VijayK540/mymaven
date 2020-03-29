@@ -18,11 +18,11 @@
 
 		<repository>
 			<id>vjtech-release</id>
-			<url>http://localhost:8081/repository/vjtech-release/</url>
+			<url>http://192.168.0.113:8081/repository/vjtech-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>vjtech-snapshot</id>
-			<url>http://localhost:8081/repository/vjtech-snapshot/</url>
+			<url>http://192.168.0.113:8081/repository/vjtech-snapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
