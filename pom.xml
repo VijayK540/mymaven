@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>vjtech-release</id>
-			<url>http://192.168.0.113:8081/repository/vjtech-release/</url>
+			<id>releases</id>
+			<url>http://192.168.0.113:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
-			<id>vjtech-snapshot</id>
-			<url>http://192.168.0.113:8081/repository/vjtech-snapshot/</url>
+			<id>snapshots</id>
+			<url>http://192.168.0.113:8081/repository/maven-snapshots//</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
